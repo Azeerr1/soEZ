@@ -1,0 +1,149 @@
+:root {
+
+}
+
+
+.transition-comp {
+  background-image:url(../images/comp.png);
+  background-attachment:fixed;
+  background-size:cover;
+  width:101%;
+  height:150px;
+  margin-top:250px;
+}
+
+.transition-about {
+  background-image:url(../images/comp2.png);
+  background-attachment:fixed;
+  background-size:cover;
+  width:101%;
+  height:150px;
+  margin-top:250px;
+}
+
+.transition-comp-v {
+  background-image:url(../images/valo.png);
+  background-attachment:fixed;
+  background-size:cover;
+  width:101%;
+  height:150px;
+  margin-top:250px;
+}
+
+.transition-about-cs {
+  background-image:url(../images/cs.png);
+  background-attachment:fixed;
+  background-size:cover;
+  width:101%;
+  height:150px;
+  margin-top:250px;
+}
+.trans-comp {
+	margin-top:250px;
+	margin-left:45%;
+	color:white;
+}
+
+.text-trans {
+	color:white;
+	text-align:center;
+	padding-top:45px;
+}
+
+.pcf {
+  margin-left:20px;
+  margin-bottom:45px;
+
+}
+
+.infovalo {
+  width:90px;
+  height:100px;
+  background-color:#ff1e1e;
+}
+
+.barre {
+  width:90px;
+  height:5px;
+  background-color:rgba(0, 0, 255, 1);
+}
+
+.chamber {
+  background-image:url(../images/chamber.png);
+}
+
+.pheonix {
+  background-image:url(../images/phoenix.png);
+}
+
+.jett {
+  background-image:url(../images/jett.png);
+}
+
+.viper {
+  background-image:url(../images/viper.png);
+}
+
+.astra {
+  background-image:url(../images/astra.png);
+}
+
+.breach {
+  background-image:url(../images/breach.png);
+}
+
+.sage {
+  background-image:url(../images/sage.png);
+}
+.reyna {
+  background-image:url(../images/reyna.png);
+}
+.skye {
+  background-image:url(../images/skye.png);
+}
+.yoru {
+  background-image:url(../images/yoru.png);
+}
+.sova {
+  background-image:url(../images/sova.png);
+}
+.killjoy {
+  background-image:url(../images/killjoy.png);
+}
+.cypher {
+  background-image:url(../images/cypher.png);
+}
+.raze {
+  background-image:url(../images/raze.png);
+}
+.omen {
+  background-image:url(../images/omen.png);
+}
+.brimstone {
+  background-image:url(../images/brimstone.png);
+}
+.kayo {
+  background-image:url(../images/kayo.png);
+}
+.fade {
+  background-image:url(../images/fade.png);
+}
+
+.infoclass {
+  background-color:#5a5a5a;
+}
+.infovalo:hover {
+  background-color:#ff5b5b;
+}
+
+#scroll_to_top {
+  position: fixed;
+  width: 25px;
+  height: 25px;
+  bottom: 50px;
+  right: 30px;
+  opacity:0;
+}
+#scroll_to_top img {
+  width: 40px;
+}

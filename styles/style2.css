@@ -1,0 +1,57 @@
+:root {
+  --success: #00b894;
+  --progress: #e17055;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+.text-center { text-align:center; }
+
+.progressbar-wrapper {
+  background-color: #dfe6e9;
+  color: white;
+
+  width: 100%;
+}
+
+.progressbar {
+  background-color: var(--progress);
+  color: white;
+  padding: 5px;
+  margin-top:10px;
+  text-align: left;
+  font-size: 20px;
+
+}
+
+
+.html {
+  width: 85%;
+}
+
+.php {
+  width: 75%;
+}
+
+.sql {
+  width: 70%;
+}
+
+.js {
+  width: 65%;
+}
+
+.cs {
+  width: 60%;
+}
+
+.psd {
+  width: 55%;
+}
